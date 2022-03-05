@@ -1,7 +1,7 @@
 ## Olá, me chamo Gabriel!
   
  - 🌱 Aprendendo Desenvolvimento Back-End.
- - 👯 Desejo colaborar em pequenos projetos Desktop e Python.
+ - 👯 Desejo colaborar em pequenos projetos Desktop e Mobile.
  - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/gabrielbielawski/">Linkedin</a> 
 <div>
   <a href="https://github.com/GabrielBielawski1">
