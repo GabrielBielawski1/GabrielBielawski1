@@ -3,7 +3,6 @@
  - 🌱 Aprendendo Desenvolvimento Back-End.
  - 👯 Desejo colaborar em pequenos projetos Desktop e Python.
  - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/gabrielbielawski/">Linkedin</a> 
- - 😄 Pronomes: Sr., Cara, Falaeh, Você, o que te deixar mais confortável.
 <div>
   <a href="https://github.com/GabrielBielawski1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielBielawski1&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
