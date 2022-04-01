@@ -1,6 +1,6 @@
 ## Olá, me chamo Gabriel!
   
- - 🌱 Aprendendo Desenvolvimento Fullstack.
+ - 🌱 Aprendendo Desenvolvimento Full Stack.
  - 👯 Desejo colaborar em pequenos projetos Desktop e Mobile.
  - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/gabrielbielawski/">Linkedin</a> 
 <div>
