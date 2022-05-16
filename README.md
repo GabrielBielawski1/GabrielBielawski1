@@ -11,10 +11,6 @@
   
   
 <div>
-
- <a href="https://br.linkedin.com/in/gabrielbielawski"> <img align="center" alt="HTML" height="30" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-  <a href= mailtoo:gabrielbielawski7@gmail.com> <img align="center" alt="HTML" height="30" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-   <a href="https://br.linkedin.com/in/gabrielbielawski"> <img align="center" alt="HTML" height="30" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
   
   </div>
   
