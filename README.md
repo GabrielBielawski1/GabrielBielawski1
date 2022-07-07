@@ -10,7 +10,7 @@
   
   
 <div>
-  <a href="https://www.linkedin.com/in/gabrielbielawski/"><img height="50em" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256016.png?token=exp=1652743351~hmac=3d0be465fbcc64a2fc4d7af64611a3a9"><a/>
+  <a href="https://www.linkedin.com/in/gabrielbielawski/"><img height="50em" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"><a/>
     <a href=mailto:gabrielbielawski7@gmail.com><img height="50em" width="50px"src="https://cdn-icons-png.flaticon.com/512/888/888853.png"><a/>
       <a href="https://www.instagram.com/biel_bielawski/"><img height="50em" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"><a/>
   </div>
