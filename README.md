@@ -1,7 +1,6 @@
 ## Olá, me chamo Gabriel!
   
- -  Aprendendo Python e desenvolvimento Front-End.
- -  Desejo colaborar em pequenos projetos na área de Python.
+ -  Aprendendo e desenvolvendo Back-End e Front-End.
  -  Um dia quero trabalhar com Computação Quântica.
 <div>
   <a href="https://github.com/GabrielBielawski1">
