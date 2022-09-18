@@ -1,7 +1,8 @@
 ## Olá, me chamo Gabriel!
   
- - 🌱 Aprendendo Desenvolvimento Front-End e Java.
- - 👯 Desejo colaborar em pequenos projetos Desktop e Mobile.
+ -  Aprendendo Python e desenvolvimento Front-End.
+ -  Desejo colaborar em pequenos projetos na área de Python.
+ -  Um dia quero trabalhar com Computação Quântica.
 <div>
   <a href="https://github.com/GabrielBielawski1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielBielawski1&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
