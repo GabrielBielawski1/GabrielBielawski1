@@ -1,6 +1,6 @@
-### Olá, eu sou o Daniel. Seja bem vindo (a)!
+### Olá, eu sou o Gabriel. Seja bem vindo (a)!
 
-- 👨🏻‍💻 Aqui no meu GitHub você poderá conferir alguns dos projetos que desenvolvi, caso queira mais informações sobre mim, por favor acessar meu <a href="https://imthedaniel.dev/" target="_blank">website</a>.
+- 👨🏻‍💻 Aqui no meu GitHub você poderá conferir alguns dos projetos que desenvolvi, caso queira mais informações sobre mim, por favor acessar meu <a href="https://www.linkedin.com/in/gabrielbielawski/" target="_blank">linkedin</a>.
 
 <div>
 <a href="https://github.com/imthedaniel">
