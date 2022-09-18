@@ -3,9 +3,9 @@
 - 👨🏻‍💻 Aqui no meu GitHub você poderá conferir alguns dos projetos que desenvolvi, caso queira mais informações sobre mim, por favor acessar meu <a href="https://www.linkedin.com/in/gabrielbielawski/" target="_blank">linkedin</a>.
 
 <div>
-<a href="https://github.com/imthedaniel">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=imthedaniel&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthedaniel&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/GabrielBielawski1">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielBielawski1&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBielawski1&layout=compact&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
