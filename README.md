@@ -25,6 +25,6 @@
  
 <div>
 
- ![Snake animation] https://github.com/GabrielBielawski1/GabrielBielawski1/blob/main/.github/workflows/main.yml
+ ![Snake animation] (https://github.com/GabrielBielawski1/GabrielBielawski1/blob/output/github-contribuition-grid.svg)
 </div>
 
