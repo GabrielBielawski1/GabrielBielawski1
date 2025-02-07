@@ -1,7 +1,7 @@
 # Olá! Eu sou o Gabriel Bielawski! 🇧🇷
 
 <p align='justify'>
-Sou estudante de desenvolvimento back-end, graduando em ciência da computação💚, 21 anos 👨‍💻, estou em busca de uma profissão na área que amo 😍.
+Sou estudante de desenvolvimento back-end, graduando em Ciência da Computação💚, 21 anos 👨‍💻 e estou em busca de uma profissão na área que amo 😍.
 
 Possuo conhecimentos em Java, C, Python e uma sólida compreensão em lógica de programação.
 
