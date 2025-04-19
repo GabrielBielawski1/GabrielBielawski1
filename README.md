@@ -37,9 +37,11 @@
 ![Neo4j](https://img.shields.io/badge/-Neo4j-0D1117?style=for-the-badge&logo=neo4j)
 
 ## About Me
+Olá! Meu nome é Gabriel Bielawski, sou estudante de Ciência da Computação na USCS (Universidade Municipal de São Caetano do Sul).
 
-Meu nome é Gabriel Bielawski, estudante de Ciência da Computação na USCS – Universidade Municipal de São Caetano do Sul.  
-Tenho interesse em desenvolvimento backend com Java e também em áreas como computação quântica e IA.
+Estou em processo de formação como desenvolvedor backend, atualmente aprendendo Java com Spring Boot e explorando ferramentas como Docker e Neo4j, que utilizo em projetos acadêmicos.
+
+Meu foco é aprender construindo projetos funcionais que resolvam problemas reais. Também tenho interesse em áreas como inteligência artificial e computação quântica, que pretendo estudar mais a fundo no futuro.
 
 Sou uma pessoa curiosa, reflexiva e estou em constante aprendizado.  
 
