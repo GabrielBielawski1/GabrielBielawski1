@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Bielawski;I'm+21+years+old;I'm+from+Brazil;I'm+a+Computer+Science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Bielawski;I'm+22+years+old;I'm+from+Brazil;I'm+a+Computer+Science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielbielawski1&bg_color=0d1117&color=00FA9A&line=4B0082&point=6A5ACD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -40,8 +40,6 @@
 Olá! Meu nome é Gabriel Bielawski, sou estudante de Ciência da Computação na USCS (Universidade Municipal de São Caetano do Sul).
 
 Estou em processo de formação como desenvolvedor backend, atualmente aprendendo Java com Spring Boot e explorando ferramentas como Docker e Neo4j, que utilizo em projetos acadêmicos.
-
-Meu foco é aprender construindo projetos funcionais que resolvam problemas reais. Também tenho interesse em áreas como inteligência artificial e computação quântica, que pretendo estudar mais a fundo no futuro.
 
 Sou uma pessoa curiosa, reflexiva e estou em constante aprendizado.  
 
