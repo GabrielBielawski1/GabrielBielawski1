@@ -39,11 +39,12 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/pacman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg">
-  <img alt="pacman contribution graph" src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/eletronics-icon.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GabrielBielawski1/GabrielBielawski1/blob/main/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GabrielBielawski1/GabrielBielawski1/blob/main/pacman.svg">
+  <img alt="pacman contribution graph" src="https://github.com/GabrielBielawski1/GabrielBielawski1/blob/main/eletronics-icon.svg">
 </picture>
 
 ###
+
 
 
